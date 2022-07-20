@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Henrique Mendes
+### Olá!  Eu sou o Matheus, curitibano de 20 anos, Head de TI na Engel Advogados e estagiário de desenvolvimento na NextAge. Como todo bom jovem da minha idade, gosto de esportes radicais e tecnologia.
 
 - 🔭 Desenvolvedor full stack na NextAge
 - 🌱 Estudando Java e Typescript 
