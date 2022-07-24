@@ -1,9 +1,9 @@
-### Olá!  Eu sou o Matheus, curitibano de 20 anos, Head de TI na Engel Advogados e estagiário de desenvolvimento na NextAge. Como todo bom jovem da minha idade, gosto de esportes radicais e tecnologia.
+### Olá!  Eu sou o Matheus, curitibano de 20 anos, Head de TI na Engel Advogados e estagiário de desenvolvimento na NextAge.
 
 - 🔭 Desenvolvedor full stack na NextAge
 - 🌱 Estudando Java e Typescript 
 - 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: Praticante de esportes radicais 
+- ⚡ Fun fact: Como todo bom jovem da minha idade, gosto de esportes radicais e tecnologia.  
 
   ##
 
