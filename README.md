@@ -30,7 +30,7 @@
   
  ##
 
-![Snake animation](https://github.com/MatheusHenriqueMendes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusHenriqueMendes/MatheusHenriqueMendes/blob/output/github-contribution-grid-snake.svg)
 
  ##
  
