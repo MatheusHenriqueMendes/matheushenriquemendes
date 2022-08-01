@@ -1,6 +1,6 @@
 ### Olá!  Eu sou o Matheus, curitibano de 20 anos, Head de TI na Engel Advogados e estagiário de desenvolvimento na NextAge🚀☕
 
-- 🔭 Desenvolvedor full stack na NextAge
+- 🔭 Estagiário de desenvolvimento full stack na NextAge
 - 🌱 Estudando Java e Typescript 
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Como todo bom jovem da minha idade, gosto de esportes radicais e tecnologia. 
