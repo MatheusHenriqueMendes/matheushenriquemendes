@@ -1,6 +1,6 @@
-### Olá!  Eu sou o Matheus, curitibano de 20 anos, Head de TI na Engel Advogados e estagiário de desenvolvimento na NextAge🚀☕
+### Olá!  Eu sou o Matheus, curitibano de 20 anos, Head de TI na Engel Advogados e co-fundador da Advocacia Escalável🚀☕
 
-- 🔭 Estagiário de desenvolvimento full stack na NextAge
+- 🔭 Co-funder e entusiasta da Advocacia Escalável, empresa de tecnologia na aréa juridica.
 - 🌱 Estudando Java e Typescript 
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Como todo bom jovem da minha idade, gosto de esportes radicais e tecnologia. 
