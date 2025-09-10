@@ -1,4 +1,4 @@
-### Olá!  Eu sou o Matheus, curitibano de 20 anos, Gestor de TI na Engel Advogados e co-fundador da Advocacia Escalável🚀☕
+### Olá!  Eu sou o Matheus, curitibano de 23 anos, Co-fundador e COO da Advocacia Escalável, uma empresa de tecnologia especialista na criação de tecnologias para o direito🚀☕
 
 - 🔭 Co-funder e entusiasta da Advocacia Escalável, empresa de tecnologia na aréa juridica.
 - 🌱 Estudando Python e data science
