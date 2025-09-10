@@ -1,7 +1,7 @@
 ### Olá!  Eu sou o Matheus, curitibano de 23 anos, Co-fundador e COO da Advocacia Escalável, uma empresa de tecnologia especialista na criação de tecnologias para o direito🚀☕
 
 - 🔭 Co-funder e entusiasta da Advocacia Escalável, empresa de tecnologia na aréa juridica.
-- 🌱 Estudando Python e data science
+- 🌱 Estudando Cloud computing, Python, IA (Machine learning e deeplearning), desenvolvimento no-code e data science.
 - 😄 Pronouns: Ele/dele
 - ⚡ Fun fact: Como todo bom jovem da minha idade, gosto de esportes radicais e tecnologia. 
 
